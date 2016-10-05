@@ -1,0 +1,3 @@
+#GlassFish 3
+#Wed Oct 05 11:32:41 CEST 2016
+org.eclipse.jst.jee.server\:onlineshop=/Users/mattmoos/javaEE/glassfish4/glassfish/domains/testEE/eclipseApps/onlineshop

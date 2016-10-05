@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="onlineshop-war">
+        <property name="context-root" value="onlineshop-war"/>
+        <property name="java-output-path" value="/onlineshop-war/build/classes"/>
+    </wb-module>
+</project-modules>

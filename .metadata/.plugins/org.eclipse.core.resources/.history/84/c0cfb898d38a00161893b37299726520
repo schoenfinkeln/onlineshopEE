@@ -1,0 +1,11 @@
+package de.schoenfinkeln.onlineshop;
+
+public class FotoService implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
